@@ -57,7 +57,7 @@
 - 🧠 Solved **675+ problems** on LeetCode — Easy (140+), Medium (350+), Hard (70+)
 - 🥇 Peak global rank of **180+** in a LeetCode Contest
 - ⭐ Contest rating of **1886**, placing in the **top 1.3%** globally
-- 🔥 Peak rating of **2100** on Codeforces
+- 🔥 Peak rank of **98** in Leetcode Weekly Contest
 
 ---
 
